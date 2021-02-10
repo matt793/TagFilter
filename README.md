@@ -1,4 +1,10 @@
 # TagFilter
-TagFilter is a webscraper that allows you to: Filter through website tags quickly.  
+TagFilter is a webscraper that allows you to filter through website tags quickly.
 
-README will be updated soon.
+## Why
+* Inspect a webpage while stay in your terminal.
+* Filter through web code faster due to repeate tag promting.
+* Low observable pen-testing.
+
+## Environment
+Keep it seprated from host dependent moduals.
